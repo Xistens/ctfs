@@ -8,7 +8,7 @@ If you need a flag try to capture the one that is already on the Moon.
 
 ## Write-up
 
-Found nothing to interesting with basic analysis, so let's open it with Radare2.
+Found nothing too interesting with basic analysis, so let's open it with Radare2.
 
 `r2 -d pizzareverse3`
 

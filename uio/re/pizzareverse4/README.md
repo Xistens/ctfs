@@ -8,7 +8,7 @@ The only challange here is to find the magic word.
 
 ## Write-up
 
-Found nothing to interesting with basic analysis, so let's open it with Radare2.
+Found nothing too interesting with basic analysis, so let's open it with Radare2.
 
 `r2 -d pizzareverse3`
 
